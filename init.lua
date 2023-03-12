@@ -1,8 +1,11 @@
 require('lcpichette')
 print("nvim files: ~/.config/nvim")
 print("<leader> = space")
+print("<C-...>  =  Control + ...")
+print("-----")
 print("<leader>fa = Finds in All files")
 print("<leader>fg = Finds in Git files")
 print("<leader>u = Undo Tree (local version control)")
 print("<leader>gs = Git Status")
+print("<C-t> = toggle nerd tree")
 
